@@ -1,0 +1,20 @@
+# Credenciales y configuracion local
+.env
+.env.*
+
+# Historial de Git y entorno de Codespaces
+.git
+.devcontainer/
+
+# Notebooks
+notebooks/
+**/.ipynb_checkpoints/
+
+# Caches de Python
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+.venv/
+venv/
